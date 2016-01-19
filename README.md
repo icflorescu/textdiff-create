@@ -62,7 +62,7 @@ Don't forget to devise a proper version-tracking mechanism in your project and i
 
 ## Credits
 
-If you find this piece of software useful, please star the repo, [spread the word](http://twitter.com/share?text=Create%20lean%20text%20diff%20patches%20in%20JavaScript&url=https%3A%2F%2Fgithub.com%2Ficflorescu%2Ftextdiff-create&hashtags=javascript%2Cnode.js%2Cnpm&via=icflorescu) and feel free to endorse me on LinkedIn:
+If you find this piece of software useful, please star the repo, [spread the word](http://twitter.com/share?text=Create%20lean%20text%20diff%20patches%20in%20JavaScript&url=https%3A%2F%2Fgithub.com%2Ficflorescu%2Ftextdiff-create&hashtags=javascript%2Cnodejs%2Cnpm&via=icflorescu) and feel free to endorse me on LinkedIn:
 
 [![Ionut-Cristian Florescu on LinkedIn](https://static.licdn.com/scds/common/u/img/webpromo/btn_viewmy_160x25.png)](https://www.linkedin.com/in/icflorescu)
 
