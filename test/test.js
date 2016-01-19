@@ -3,8 +3,8 @@
 var fs = require('fs'),
     createDelta = require('../');
 
-var v1 = fs.readFileSync(__dirname + '/v1.txt', 'utf8'),
-    v2 = fs.readFileSync(__dirname + '/v2.txt', 'utf8'),
+var v1 = fs.readFileSync(__dirname + '/v1.txt', 'utf8').slice(0, -2),
+    v2 = fs.readFileSync(__dirname + '/v2.txt', 'utf8').slice(0, -2),
     deltas = {
       v1_to_v2: require('./delta-v1-to-v2.json'),
       v2_to_v1: require('./delta-v2-to-v1.json'),
