@@ -1,4 +1,8 @@
 # textdiff-create
+[![NPM version][npm-image]][npm-url]
+[![Dependency Status][david-image]][david-url]
+[![Build Status][travis-image]][travis-url]
+[![License][license-image]][license-url]
 
 ![textdiff-create](https://cloud.githubusercontent.com/assets/581999/12406635/6b14c6c6-be57-11e5-96a7-97dc15fabd58.png)
 
@@ -71,3 +75,13 @@ If you find this piece of software useful, please star the repo, [spread the wor
 ## LICENSE
 
 Released under [ISC](https://github.com/icflorescu/textdiff-create/blob/master/LICENSE).
+
+[npm-image]: https://img.shields.io/npm/v/textdiff-create.svg?style=flat-square
+[npm-url]: https://npmjs.org/package/textdiff-create
+[david-image]: https://img.shields.io/david/icflorescu/textdiff-create.svg?style=flat-square
+[david-url]: https://david-dm.org/icflorescu/textdiff-create
+[license-image]: http://img.shields.io/npm/l/textdiff-create.svg?style=flat-square
+[license-url]: LICENSE
+[travis-image]: https://img.shields.io/travis/icflorescu/textdiff-create.svg?style=flat-square
+[travis-url]: https://travis-ci.org/icflorescu/textdiff-create
+
