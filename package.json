@@ -1,0 +1,33 @@
+{
+  "name": "textdiff-create",
+  "version": "0.1.0",
+  "description": "Create lean text diff deltas.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/icflorescu/textdiff-create.git"
+  },
+  "keywords": [
+    "diff",
+    "text",
+    "string",
+    "patch",
+    "lean"
+  ],
+  "author": "Ionut-Cristian Florescu <ionut.florescu@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/icflorescu/textdiff-create/issues"
+  },
+  "homepage": "https://github.com/icflorescu/textdiff-create#readme",
+  "dependencies": {
+    "fast-diff": "^1.0.1"
+  },
+  "devDependencies": {
+    "mocha": "^2.3.4",
+    "should": "^8.1.1"
+  }
+}
