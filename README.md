@@ -1,5 +1,7 @@
 # textdiff-create
 
+![textdiff-create](https://cloud.githubusercontent.com/assets/581999/12406635/6b14c6c6-be57-11e5-96a7-97dc15fabd58.png)
+
 This is a simple module for creating **lean text diff deltas**, based on the excellent [fast-diff](https://github.com/jhchen/fast-diff) by [Jason Chen](https://github.com/jhchen).
 
 Use in conjunction with [textdiff-patch](https://github.com/icflorescu/textdiff-patch).
