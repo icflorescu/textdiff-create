@@ -3,6 +3,7 @@
 [![Dependency Status][david-image]][david-url]
 [![Build Status][travis-image]][travis-url]
 [![License][license-image]][license-url]
+[![Downloads][downloads-image]][downloads-url]
 
 ![textdiff-create](https://cloud.githubusercontent.com/assets/581999/12406635/6b14c6c6-be57-11e5-96a7-97dc15fabd58.png)
 
@@ -84,4 +85,6 @@ Released under [ISC](https://github.com/icflorescu/textdiff-create/blob/master/L
 [license-url]: LICENSE
 [travis-image]: https://img.shields.io/travis/icflorescu/textdiff-create.svg?style=flat-square
 [travis-url]: https://travis-ci.org/icflorescu/textdiff-create
+[downloads-image]: http://img.shields.io/npm/dm/textdiff-create.svg?style=flat-square
+[downloads-url]: https://npmjs.org/package/textdiff-create
 
