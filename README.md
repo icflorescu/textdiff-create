@@ -61,7 +61,7 @@ Correcting a misspelled word in a 100-kilobytes text will generate **around 100 
 
 **Q**: Why splitting the functionality in two different packages?
 
-**A**: To keep the deployed codebase and dependency graph to a minimum. Tipical usage involves creating deltas in a client-side application and applying them server-side. This tool **is about optimization**, so its own code should conform to the same basic principle: avoid sending unnecessary bytes over the network.
+**A**: To keep the deployed codebase and dependency graph to a minimum. Typical usage involves creating deltas in a client-side application and applying them server-side. This tool **is about optimization**, so its own code should conform to the same basic principle: avoid sending unnecessary bytes over the network.
 
 ## Warning
 
