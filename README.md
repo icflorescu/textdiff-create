@@ -79,7 +79,6 @@ Released under [ISC](https://github.com/icflorescu/textdiff-create/blob/master/L
 
 [npm-image]: https://img.shields.io/npm/v/textdiff-create.svg?style=flat-square
 [npm-url]: https://npmjs.org/package/textdiff-create
-[david-url]: https://david-dm.org/icflorescu/textdiff-create
 [license-image]: http://img.shields.io/npm/l/textdiff-create.svg?style=flat-square
 [license-url]: LICENSE
 [travis-image]: https://img.shields.io/travis/icflorescu/textdiff-create.svg?style=flat-square
