@@ -1,6 +1,6 @@
 {
   "name": "textdiff-create",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Create lean text diff deltas.",
   "main": "index.js",
   "scripts": {
