@@ -18,12 +18,12 @@ See [below](#stand-with-ukraine).
 
 Assuming you've correctly installed the `npm` module with `npm i textdiff-create [--save|--save-dev]`:
 
-    var createPatch = require('textdiff-create');
+    const createPatch = require('textdiff-create');
 
-    var v1 = 'The sleepy brown fox';
-    var v2 = 'The quick brown fox jumps over the lazy dog';
+    const v1 = 'The sleepy brown fox';
+    const v2 = 'The quick brown fox jumps over the lazy dog';
 
-    var delta = createPatch(v1, v2);
+    const delta = createPatch(v1, v2);
 
     console.log(JSON.stringify(delta));
 
@@ -70,9 +70,9 @@ Correcting a misspelled word in a 100-kilobytes text will generate **around 100 
 
 Don't forget to devise a proper version-tracking mechanism in your project and include the version number in the client-server conversation. Otherwise you risk running into serious inconsistency issues.
 
-## Credits
+## Credits & support
 
-If you find this piece of software useful, please star the repo, [spread the word](http://twitter.com/share?text=Create%20lean%20text%20diff%20patches%20in%20JavaScript&url=https%3A%2F%2Fgithub.com%2Ficflorescu%2Ftextdiff-create&hashtags=javascript%2Cnodejs%2Cnpm&via=icflorescu) and feel free to endorse me on LinkedIn:
+If you find this piece of software useful, please star the repo, [spread the word](http://twitter.com/share?text=Create%20lean%20text%20diff%20patches%20in%20JavaScript&url=https%3A%2F%2Fgithub.com%2Ficflorescu%2Ftextdiff-create&hashtags=javascript%2Cnodejs%2Cnpm&via=icflorescu), [sponsor my work](https://github.com/sponsors/icflorescu) and feel free to endorse me on LinkedIn:
 
 [![Ionut-Cristian Florescu on LinkedIn](https://static.licdn.com/scds/common/u/img/webpromo/btn_viewmy_160x25.png)](https://www.linkedin.com/in/icflorescu)
 
