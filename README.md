@@ -3,6 +3,7 @@
 [![NPM version][npm-image]][npm-url]
 [![License][license-image]][license-url]
 [![Downloads][downloads-image]][downloads-url]
+[![Sponsor the author][sponsor-image]][sponsor-url]
 
 ![textdiff-create](https://cloud.githubusercontent.com/assets/581999/12406635/6b14c6c6-be57-11e5-96a7-97dc15fabd58.png)
 
@@ -90,3 +91,5 @@ Released under [ISC](https://github.com/icflorescu/textdiff-create/blob/master/L
 [license-url]: LICENSE
 [downloads-image]: http://img.shields.io/npm/dm/textdiff-create.svg?style=flat-square
 [downloads-url]: https://npmjs.org/package/textdiff-create
+[sponsor-image]: https://img.shields.io/badge/sponsor-violet?style=flat-square
+[sponsor-url]: https://github.com/sponsors/icflorescu
